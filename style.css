@@ -1,6 +1,5 @@
 body {
     background-color: black;
-    width: 100%;
 }
 
 header {
@@ -18,15 +17,8 @@ section {
 #logo {
     padding-top: 10px;
     width: 175px;
-    float: right;
-    margin-right: 100px;
 }
 
-
-
-#barbershop-title {
-    float: left;
-}
 
 h1 {
     color: #ffffff;
@@ -44,6 +36,9 @@ h1 {
     opacity: 100%;
 }
 
+#barbershop-title {
+    text-align: center;
+}
 
 #munkakId {
     padding-top: 10px;
