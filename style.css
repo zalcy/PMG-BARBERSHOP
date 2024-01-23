@@ -1,6 +1,6 @@
 body {
     background-color: black;
-    /* opacity: 0.5%; */
+    width: 100%;
 }
 
 header {
@@ -20,6 +20,10 @@ section {
     width: 175px;
     float: right;
     margin-right: 100px;
+}
+
+#barbershop-title {
+    float: left0;
 }
 
 h1 {
