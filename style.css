@@ -1,0 +1,66 @@
+body {
+    background-color: black;
+    /* opacity: 0.5%; */
+}
+
+header {
+    background-color: #363434;
+    height: 200px;
+}
+
+section {
+    
+    padding-top: 20px;
+    background-color: #62929a;
+    height: 100%;
+}
+
+#logo {
+    padding-top: 10px;
+    width: 175px;
+    float: right;
+    margin-right: 100px;
+}
+
+h1 {
+    color: #ffffff;
+    font-family: 'Oswald';
+}
+
+.nav-item {
+    font-size: 25px;
+    opacity: 50%;
+    font-family: 'Oswald';
+}
+
+.nav-item:hover {
+    font-size: 25px;
+    opacity: 100%;
+}
+
+
+#munkakId {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    text-shadow: 2px 2px black;
+}
+
+.munkakClass {
+    background-color: #0000006f;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    padding-bottom: 20px; 
+}
+
+#munkaKep {
+    width: 300px;
+    border: 2px #363434 solid;
+    box-shadow: 3px 3px black;
+    border-radius: 2px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    
+}
